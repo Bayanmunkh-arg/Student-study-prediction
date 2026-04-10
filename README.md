@@ -17,7 +17,7 @@ This project predicts student exam scores based on study hours using machine lea
 The model shows a positive relationship between study hours and exam score.
 
 ## Demo
-![image alt](https://github.com/Bayanmunkh-arg/Student-study-prediction/blob/8d4d145cf23461f462eae36023c70d294ab51edf/Screenshot%202026-04-11%20001929.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d71f94f2-04b3-4833-8fcf-4fb4b2c660f0" />
 
 
 
